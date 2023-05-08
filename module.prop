@@ -1,0 +1,8 @@
+id=magisk_evtest
+name=Magisk evtest
+version=1.0
+versionCode=1
+author=khanra17
+description=Magisk module that adds evtest command to your Android device.
+support=https://github.com/khanra17/Magisk-evtest
+updateJson=https://raw.githubusercontent.com/khanra17/Magisk-evtest/master/magisk.json
